@@ -376,7 +376,7 @@ gap: 35px;
 }
 
 footer{
-  background-image: url(/images/footer-background.png);
+  background-image: url(images/footer-background.png);
   height: 302px;
   display: flex;
   flex-direction: column;
